@@ -1,0 +1,58 @@
+.navbar-container {
+    width: 100%;
+    display: flex;
+    padding: 5px;
+}
+.navbar-container .navbar-home {
+    height: 50px;
+    display: flex;
+    margin-right: 350px;
+}
+
+.navbar-container .navbar-links-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.navbar-container .navbar-icons-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-left: 460px;
+}
+
+.navbar-container .navbar-profile-details-wrapper {
+    display: flex;
+    margin-left: 50px;
+    gap: 2rem;
+}
+
+.navbar-container .navbar-profile-details {
+    margin-top: 6px;
+}
+
+.navbar-container .navbar-profile-name {
+    font-size: medium;
+}
+
+.navbar-container .navbar-profile-designation {
+    font-size: x-small;
+}
+
+.navbar-container .notifications-icon{
+    height: 30px;
+    margin-top: 3%;
+}
+
+.navbar-container .settings-icon{
+    height: 30px;
+    margin-top: 3%;
+}
+
+.navbar-container .navbar-icon-profile {
+    height: 50px;
+    width: 50px;
+}
