@@ -1,0 +1,12 @@
+.opportunities-wrapper {
+    width: 100%;
+    display: block;
+    background: lightgrey;
+    height: 85vh;
+    border-radius: 10px;
+    padding: 0.5rem 0rem 2rem 1rem;
+}
+
+.opportunities-link {
+    margin: 10px;
+}
