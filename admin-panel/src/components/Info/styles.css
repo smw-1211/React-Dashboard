@@ -1,0 +1,16 @@
+.info-wrapper {
+    display: flex;
+    gap: 16px;
+    padding-left: 16px;
+    padding-top: 20px;
+    padding-bottom: 16px;
+}
+
+.info-dropdown {
+cursor: pointer;
+}
+
+.info-dropdown:hover {
+    color: hsl(208, 92%, 54%);
+    text-decoration: underline;
+}
